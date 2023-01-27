@@ -1,0 +1,9 @@
+#powerIframeLoader {
+    display: none;
+}
+
+*div.header service {
+    background-color: grey;
+    color: black;
+    
+}
